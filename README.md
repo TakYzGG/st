@@ -3,3 +3,4 @@
 # Parches
 - anysize
 - scrollback
+- scrollback-mouse
