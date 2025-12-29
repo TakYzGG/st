@@ -2,3 +2,4 @@
 
 # Parches
 - anysize
+- scrollback
